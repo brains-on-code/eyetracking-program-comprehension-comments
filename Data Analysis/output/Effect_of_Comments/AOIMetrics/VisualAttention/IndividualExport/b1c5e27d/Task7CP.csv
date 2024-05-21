@@ -1,0 +1,2 @@
+Participant,Task,Type,AllFixations_Count,AllFixations_Duration,AoiFixations_Count,AoiFixations_Duration,AoiHits_CountRatio,AoiHits_DurationRatio,CodeFixations_Count,CodeFixations_Duration,CodeHits_CountRatio,CodeHits_DurationRatio,CommentFixations_Count,CommentFixations_Duration,CommentHits_CountRatio,CommentHits_DurationRatio
+b1c5e27d,Task7CP,CP,412,117.83,310,93.89,0.75,0.8,284,90.28,0.92,0.96,26,3.62,0.08,0.04

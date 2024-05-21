@@ -1,0 +1,2 @@
+Participant,Task,Type,VerticalNext,VerticalLater,Regression,HorizontalLater,LineRegression,SaccadeLength
+dac593bd,Task3CM,CM,0.13,0.14,0.25,0.17,0.14,36.85

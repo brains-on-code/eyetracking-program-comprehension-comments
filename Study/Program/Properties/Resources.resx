@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Done" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+  <data name="Questions" xml:space="preserve">
+    <value>Please answer the following:</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>What does the code output?</value>
+  </data>
+  <data name="StartCalibrate" xml:space="preserve">
+    <value>An eye tracker is used to record your eye movements.
+In order for it to track your gaze properly, it needs to be calibrated.
+
+To do this, please follow the instructions of the calibration program.</value>
+  </data>
+  <data name="Thanks" xml:space="preserve">
+    <value>Thank you for your participation!</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Welcome to the study!</value>
+  </data>
+  <data name="TimeOutMessage" xml:space="preserve">
+    <value>The time is up</value>
+  </data>
+  <data name="TimeOutTitle" xml:space="preserve">
+    <value>Time's up</value>
+  </data>
+  <data name="Instructions" xml:space="preserve">
+    <value>The study consists of two sections: a quantitative and a qualitative part.
+
+In the quantitative part, you'll encounter 12 Java code snippets that compile and output to the console. Your objective is to comprehend each snippet and determine its resulting output. Please enter the correct output of each snippet on the subsequent slide. You'll have 5 minutes for each task. After 4 minutes, a reminder of the remaining time will be provided. Kindly aim for both efficiency and accuracy in your work.
+
+In the qualitative part, your task involves rating the difficulty level of the code snippets and completing a brief questionnaire.</value>
+  </data>
+  <data name="Intersnippet" xml:space="preserve">
+    <value>Click 'Continue' when you are ready for the next snippet</value>
+  </data>
+  <data name="ResultBoxEmptyMessage" xml:space="preserve">
+    <value>Please provide an answer</value>
+  </data>
+  <data name="ResultBoxEmptyTitle" xml:space="preserve">
+    <value>Output Field Empty</value>
+  </data>
+  <data name="TimeNearlyOutMessage" xml:space="preserve">
+    <value>You have 1 minute left</value>
+  </data>
+  <data name="TimeNearlyOutTitle" xml:space="preserve">
+    <value>Time Almost Up</value>
+  </data>
+  <data name="YourAnswer" xml:space="preserve">
+    <value>Your answer:</value>
+  </data>
+  <data name="QuestionErrorMessage" xml:space="preserve">
+    <value>The following questions have missing or invalid answers:</value>
+  </data>
+  <data name="QuestionErrorTitle" xml:space="preserve">
+    <value>Error in Questions</value>
+  </data>
+  <data name="StartTrials" xml:space="preserve">
+    <value>Now the study starts</value>
+  </data>
+  <data name="InformedConsent" xml:space="preserve">
+    <value>In this study, you will be asked to review Java code snippets and determine their output, while your eye movements are recorded. Then you will rate the snippets and complete a brief questionnaire. The information collected during the study will be treated confidentially and cannot be linked to you.
+
+You are free to withdraw from the study at any time without giving any reasons, and all data collected up to that point will be deleted.
+
+Participation takes about 90 minutes.</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>At the end of the study, you can provide your email address to be informed about the collected results of the study. The email address will not be stored together with the collected information of this session.
+
+If you have any further questions, please refer to the experimenter after the study.
+
+By clicking 'Continue', you confirm that you want to participate in this study.</value>
+  </data>
+  <data name="CalibrationDone" xml:space="preserve">
+    <value>Please remain seated and do not move around during the study, as otherwise the eye tracking data will become unusable. Your eye movements will only be recorded during the display of the codes.
+
+Next, the study will be explained in more detail.</value>
+  </data>
+  <data name="FixationInstructionsFocus" xml:space="preserve">
+    <value>Please focus your gaze on the dot to calibrate your eye position.
+
+Next, a warm-up task will follow.</value>
+  </data>
+  <data name="FixationInstructionsPoint" xml:space="preserve">
+    <value>Before each code snippet, you will see this dot:</value>
+  </data>
+  <data name="SnippetsFinished" xml:space="preserve">
+    <value>Tasks complete. Thank you very much!
+
+Take a moment to rest before transitioning to the post-questionnaire phase.
+
+Kindly notify the supervisor of your progress.</value>
+  </data>
+  <data name="InterCalibration" xml:space="preserve">
+    <value>Click 'Continue' when you are ready for the next calibration.</value>
+  </data>
+</root>

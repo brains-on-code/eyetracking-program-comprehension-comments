@@ -1,0 +1,13 @@
+Task,Task_Number,Task_Type,Answer_Out,Solution,Correct,Time,TimeOut,Correct_Only_Time,SubjectID
+Task1CM,1,CM,5,5,True,186.219,False,186.219,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task2CM,2,CM,"[9, 1]","[9, 1]",True,203.582,False,203.582,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task3CM,3,CM,15,5,False,292.204,False,0.0,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task4CM,4,CM,2,5,False,158.05,False,0.0,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task5CM,5,CM,1,3,False,313.984,False,0.0,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task6CM,6,CM,6,4,False,338.838,False,0.0,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task7CP,7,CP,1024,1024,True,300.388,False,300.388,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task8CP,8,CP,13,13,True,111.998,False,111.998,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task9CP,9,CP,"[2, 3, 5, 7, 11, 13, 17]","[2, 3, 5, 7, 11, 13, 17]",True,180.656,False,180.656,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task10CP,10,CP,7,7,True,101.982,False,101.982,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task11CP,11,CP,2,6,False,289.691,False,0.0,66b337a9-fadd-45fe-ad28-c77543f6630f
+Task12CP,12,CP,TRUE,TRUE,True,61.17,False,61.17,66b337a9-fadd-45fe-ad28-c77543f6630f

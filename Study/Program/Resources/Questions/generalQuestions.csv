@@ -1,0 +1,6 @@
+Age;What year were you born?;Int;1940;2015;XXXXX
+Gender;What is your gender?;Select;Male;Female;Prefer not to say
+Job;What is your main occupation at the moment?;Combo;Student;Employed in the private sector;Employed at the university (no HiWi);Self-employed;No job;Other
+Education;What is your highest degree?;Combo;High School Diploma (Abitur / Fachabitur);Apprenticeship (Lehre / Fachausbildung);Bachelor;Master/Diploma;Doctorate;Quereinsteiger / No Degree;Other Degree
+Glasses;Do you have glasses on;Select;Yes;No
+EyeProblems;Do you have a vision problem or an eye deformity?;Select;Yes;No;Not specified

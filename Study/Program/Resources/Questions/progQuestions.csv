@@ -1,0 +1,7 @@
+JavaExperience;How many years of experience do you have with Java?;Int;0;100;XXXX
+OverallExperienc;How many years of programming experience do you have in total?;Int;0;100;XXXX
+JavaKnowledge;How well do you know Java?;Combo;No Experience: I haven't used Java before and have no familiarity with it.;Basic Knowledge: I possess limited understanding of Java's fundamentals.;Project Experience: I've worked on Java projects and gained practical experience.;Regular: I'm comfortable with Java and use it regularly for coding tasks.;Expert: I have extensive knowledge and experience, and I'm highly skilled in Java development.
+OtherLanguages;Optional: What other programming languages do you know / master? (Please separate multiple languages with a comma);Free;OPT;?
+LastTimeJava;When was the last time you programmed in Java?;Combo;This week;Last month;Last year;More than 1 year ago;More than 5 years ago
+ClassMates;How do you rate your programming skills compared to your fellow students? (1: very inexperienced to 5: very experienced);Int;1;5;XXXX
+Logic;How experienced are you with logic programming, e.g. with Prolog? (1: very inexperienced to 5: very experienced);Int;1;5;XXXX

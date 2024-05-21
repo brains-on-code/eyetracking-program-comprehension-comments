@@ -1,0 +1,15 @@
+,CM,CP
+AllFixations_Count,525.11,579.1
+AllFixations_Duration,177.03,171.39
+AoiFixations_Count,358.36,396.64
+AoiFixations_Duration,123.9,121.19
+AoiHits_CountRatio,0.69,0.68
+AoiHits_DurationRatio,0.71,0.69
+CodeFixations_Count,358.36,304.51
+CodeFixations_Duration,123.9,100.32
+CodeHits_CountRatio,1.0,0.78
+CodeHits_DurationRatio,1.0,0.82
+CommentFixations_Count,0.0,92.13
+CommentFixations_Duration,0.0,20.87
+CommentHits_CountRatio,0.0,0.22
+CommentHits_DurationRatio,0.0,0.18

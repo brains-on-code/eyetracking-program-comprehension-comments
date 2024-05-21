@@ -1,0 +1,13 @@
+Task,Task_Number,Task_Type,Answer_Out,Solution,Correct,Time,TimeOut,Correct_Only_Time,SubjectID
+Task1CM,1,CM,6,5,False,309.727,True,0.0,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task2CM,2,CM,"[9, 1]","[9, 1]",True,385.191,True,385.191,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task3CM,3,CM,0,5,False,304.049,True,0.0,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task4CM,4,CM,100,5,False,291.427,False,0.0,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task5CM,5,CM,3,3,True,688.23,True,688.23,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task6CM,6,CM,4,4,True,975.695,True,975.695,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task7CP,7,CP,1024,1024,True,525.096,True,525.096,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task8CP,8,CP,8,13,False,307.105,False,0.0,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task9CP,9,CP,"[2, 3, 5, 7, 11, 13, 17]","[2, 3, 5, 7, 11, 13, 17]",True,403.29,False,403.29,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task10CP,10,CP,7,7,True,312.769,False,312.769,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task11CP,11,CP,1,6,False,305.475,True,0.0,dac593bd-1be4-425d-b1c9-3706b5a3f56f
+Task12CP,12,CP,TRUE,TRUE,True,93.165,False,93.165,dac593bd-1be4-425d-b1c9-3706b5a3f56f

@@ -1,0 +1,15 @@
+Number;Task;Answer_Out;Time;TimeOut;SubjectID
+0;WarmUp;TRUE;37108;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+1;Task3CM;9;214633;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+2;Task9CP;[2, 3, 5, 7, 11, 13, 17];120714;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+3;Task10CP;45;57351;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+4;Task6CM;101;194582;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+5;Task7CP;4;90284;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+6;Task1CM;6;25049;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+7;Task2CM;[8, 6, 1, 5, 7, 9, 1, 3, 7];121689;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+8;Task4CM;5;142225;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+9;Task5CM;3;75888;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+10;Task8CP;8;105121;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+11;Task11CP;4;59835;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+12;Task12CP;TRUE;37287;False;ba88bf04-ee4f-4e6f-8e5a-3c5e62ff5657
+

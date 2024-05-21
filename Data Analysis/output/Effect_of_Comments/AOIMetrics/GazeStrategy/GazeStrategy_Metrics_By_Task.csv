@@ -1,0 +1,13 @@
+Task,CodeToComment_Count,CommentToCode_Count,CodeToComment_Ratio,CommentToCode_Ratio
+Task1,4.5,4.7,0.01,0.01
+Task2,5.2,4.8,0.01,0.01
+Task3,11.7,8.6,0.01,0.01
+Task4,9.5,7.6,0.01,0.01
+Task5,13.5,10.3,0.02,0.01
+Task6,6.8,6.7,0.01,0.01
+Task7,7.0,7.5,0.02,0.02
+Task8,6.2,5.4,0.01,0.01
+Task9,7.1,5.6,0.02,0.01
+Task10,2.3,1.4,0.01,0.0
+Task11,15.6,12.0,0.03,0.02
+Task12,3.6,2.7,0.02,0.01

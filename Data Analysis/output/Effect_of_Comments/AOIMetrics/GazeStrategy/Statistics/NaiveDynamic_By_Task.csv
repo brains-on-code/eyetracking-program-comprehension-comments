@@ -1,0 +1,5 @@
+Metric,Effect Direction,Naive Mean,Dynamic Mean,Statistic,P-Value,Corrected P-Value,Reject Null Hypothesis
+Story_CodeFirst,two-sided,-92.138,-55.483,0.0,0.002,0.002,True
+Exec_CodeFirst,two-sided,-65.554,-41.146,0.0,0.002,0.002,True
+Story_CommentFirst,two-sided,-92.012,-56.471,0.0,0.002,0.002,True
+Exec_CommentFirst,two-sided,-65.846,-41.867,0.0,0.002,0.002,True

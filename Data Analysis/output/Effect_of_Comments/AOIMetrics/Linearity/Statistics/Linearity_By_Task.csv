@@ -1,0 +1,7 @@
+Metric,Effect Direction,CM Mean,CP Mean,Statistic,P-Value,Corrected P-Value,Reject Null Hypothesis
+VerticalNext,two-sided,0.144,0.143,14.0,1.0,1.0,False
+VerticalLater,two-sided,0.143,0.121,1.0,0.011,0.018,True
+Regression,two-sided,0.287,0.257,2.0,0.001,0.004,True
+HorizontalLater,two-sided,0.166,0.228,0.0,0.0,0.003,True
+LineRegression,two-sided,0.148,0.161,3.0,0.012,0.018,True
+SaccadeLength,two-sided,43.111,41.555,29.0,0.47,0.564,False

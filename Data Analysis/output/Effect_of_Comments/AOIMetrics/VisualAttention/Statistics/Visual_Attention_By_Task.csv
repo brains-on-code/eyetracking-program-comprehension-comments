@@ -1,0 +1,9 @@
+Metric,Effect Direction,CM Mean,CP Mean,Statistic,P-Value,Corrected P-Value,Reject Null Hypothesis
+AllFixations_Count,two-sided,525.108,579.1,2867.0,0.046,0.067,False
+AllFixations_Duration,two-sided,177.031,171.392,3620.0,0.979,0.979,False
+AoiFixations_Count,two-sided,358.358,396.642,2881.5,0.05,0.067,False
+AoiFixations_Duration,two-sided,123.898,121.191,3582.5,0.901,0.979,False
+CodeFixations_Count,less,358.358,304.508,2732.5,0.018,0.037,True
+CodeFixations_Duration,less,123.898,100.324,2468.0,0.001,0.003,True
+CommentFixations_Count,greater,0.0,92.133,7260.0,0.0,0.0,True
+CommentFixations_Duration,greater,0.0,20.867,7260.0,0.0,0.0,True

@@ -1,0 +1,33 @@
+﻿<Window x:Class="Study.FixationInstruction"
+        xmlns:p="clr-namespace:Study.Properties"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Instructions" WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0"  HorizontalAlignment="Center"  TextWrapping="Wrap" Text="{x:Static p:Resources.FixationInstructionsPoint}" VerticalAlignment="Center" FontSize="22" TextAlignment="Center" Width="1200"/>
+        <Image Grid.Row="2" HorizontalAlignment="Center" Source="cross.png" Width="200" Height="200"  />
+        <TextBlock Grid.Row="4"  HorizontalAlignment="Center"  TextWrapping="Wrap" Text="{x:Static p:Resources.FixationInstructionsFocus}" VerticalAlignment="Center" FontSize="22" TextAlignment="Center" Width="1200"/>
+        <Button Grid.Row="6"  Content="{x:Static p:Resources.Next}" HorizontalAlignment="Center"  VerticalAlignment="Center" Click="Button_Click" FontSize="22" MinWidth="150">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="15"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

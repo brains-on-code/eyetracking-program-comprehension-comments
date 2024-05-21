@@ -1,0 +1,35 @@
+Total participants: 20
+Males: 18
+Females: 2
+Mean age: 1997.20
+Age standard deviation: 4.20
+--------------------------------
+Education distribution:
+High School Diploma (Abitur / Fachabitur)    11
+Bachelor                                      7
+Master/Diploma                                2
+Name: Education, dtype: int64
+--------------------------------
+Job distribution:
+Student                                 18
+Employed at the university (no HiWi)     1
+No job                                   1
+Name: Job, dtype: int64
+--------------------------------
+Java experience distribution:
+Project Experience: I've worked on Java projects and gained practical experience.                 12
+Basic Knowledge: I possess limited understanding of Java's fundamentals.                           5
+Regular: I'm comfortable with Java and use it regularly for coding tasks.                          2
+Expert: I have extensive knowledge and experience, and I'm highly skilled in Java development.     1
+Name: JavaKnowledge, dtype: int64
+--------------------------------
+Glasses distribution:
+No     13
+Yes     7
+Name: Glasses, dtype: int64
+--------------------------------
+Eye problems distribution:
+No               17
+Not specified     2
+Yes               1
+Name: EyeProblems, dtype: int64

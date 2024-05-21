@@ -1,0 +1,15 @@
+Number;Task;Answer_Out;Time;TimeOut;SubjectID
+0;WarmUp;TRUE;46114;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+1;Task6CM;4;106501;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+2;Task7CP;1024;229245;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+3;Task9CP;[2, 3, 5, 7, 11, 13, 17];72114;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+4;Task1CM;5;253979;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+5;Task4CM;5;53332;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+6;Task3CM;5;139770;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+7;Task10CP;7;27248;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+8;Task12CP;TRUE;21291;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+9;Task2CM;[9, 1];52055;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+10;Task5CM;3;193542;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+11;Task11CP;6;98713;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+12;Task8CP;13;62620;False;45c939e2-e7fc-4728-b3e9-b2ed5380a6cd
+

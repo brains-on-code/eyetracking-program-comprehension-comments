@@ -1,0 +1,4 @@
+Metric,Effect Direction,CM Mean,CP Mean,Statistic,P-Value
+Accuracy,greater,55.0,54.167,21.0,0.572
+Time,less,231.208,222.808,37.0,0.455
+Correct_Only_Time,less,120.033,108.942,24.0,0.133

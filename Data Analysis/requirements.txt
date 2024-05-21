@@ -1,0 +1,11 @@
+matplotlib
+minineedle
+miniseq
+numpy
+pandas
+Pillow
+researchpy
+scipy
+seaborn
+statsmodels
+tqdm

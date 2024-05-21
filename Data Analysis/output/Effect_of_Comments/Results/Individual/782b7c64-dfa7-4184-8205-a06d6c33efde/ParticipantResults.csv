@@ -1,0 +1,13 @@
+Task,Task_Number,Task_Type,Answer_Out,Solution,Correct,Time,TimeOut,Correct_Only_Time,SubjectID
+Task1CM,1,CM,5,5,True,196.752,False,196.752,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task2CM,2,CM,"[9, 1]","[9, 1]",True,191.913,False,191.913,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task3CM,3,CM,5,5,True,236.113,False,236.113,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task4CM,4,CM,4,5,False,274.599,False,0.0,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task5CM,5,CM,dont know,3,False,303.051,True,0.0,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task6CM,6,CM,7,4,False,294.906,False,0.0,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task7CP,7,CP,64,1024,False,205.135,False,0.0,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task8CP,8,CP,13,13,True,206.23,False,206.23,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task9CP,9,CP,"[2, 3, 5, 7, 11, 13, 17]","[2, 3, 5, 7, 11, 13, 17]",True,133.393,False,133.393,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task10CP,10,CP,7,7,True,104.451,False,104.451,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task11CP,11,CP,8,6,False,296.329,False,0.0,782b7c64-dfa7-4184-8205-a06d6c33efde
+Task12CP,12,CP,TRUE,TRUE,True,58.298,False,58.298,782b7c64-dfa7-4184-8205-a06d6c33efde
