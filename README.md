@@ -22,6 +22,11 @@ This folder contains the final code snippets used in the study along with additi
 
 ## Instructions for Replication
 
+### Eye Tracker Specifications
+In our study, we used the Tobii EyeX\footnote{https://help.tobii.com/hc/en-us/articles/212818309-Specifications-for-EyeX} eye tracker to collect gaze data at a frequency of 60\,Hz. The Tobii EyeX is a portable eye tracker that utilizes near-infrared light to track the position of the eyes. It has a tracking population of 95\%, ensuring precise measurements.
+The Tobii EyeX is compatible with screens up to 27 inches and has an operating distance range of 50 - 90 cm. The track box dimensions, representing the area where eye movements can be accurately captured, are approximately 40 x 30 cm at a distance of 75 cm. 
+To ensure accurate eye-tracking measurements, we instructed participants to position themselves at the right distance and position to the Tobii EyeX according to the manufacturer's instructions. 
+
 ### Study
 
 1. Run the study program by opening the `Study` folder in Microsoft Visual Studio and running the `Study.sln` solution file.
@@ -47,4 +52,4 @@ This folder contains the final code snippets used in the study along with additi
 
 ## Contact
 
-For any questions or issues related to this replication package, please contact Youssef Abdelsalam at [s8yoabde@stud.uni-saarland.de].
+For any questions or issues related to this replication package, please contact Youssef Abdelsalam at [abdelsalam@cs.uni-saarland.de].
