@@ -1,6 +1,8 @@
 # Replication Package for "The Effect Of Comments On Program Comprehension: An Eye-Tracking Study"
 
-This repository contains the replication package for the paper "The Effect Of Comments On Program Comprehension: An Eye-Tracking Study"
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This repository contains the replication package for the paper "The Effect Of Comments On Program Comprehension: An Eye-Tracking Study", accepted at Empirical Software Engineering.
 
 ## Repository Structure
 
@@ -49,6 +51,14 @@ To ensure accurate eye-tracking measurements, we instructed participants to posi
     ```bash
     python data_analysis/RunPipelineData.py
     ```
+
+## License
+
+This repository is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## Contact
 
